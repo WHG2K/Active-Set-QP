@@ -2,13 +2,11 @@
 
 Implementation of the Active-Set method for inequality-constrained Quadratic Programming (QP).
 
-Problem form (text only):  
+Problem form:  
 min 1/2 x^T G x + c^T x  subject to  A x >= b
 
-- **Course**: IEMS 450-2  
-- **Author**: Wenhao Gu  
 - **Notebook**: `Active_Set_QP.ipynb` (main file)  
-- **Preview**: `Active_Set_QP_doc.html` (exported from the notebook)
+- **Document**: `Active_Set_QP_doc.html` (exported from the notebook)
 
 ## Features
 - Solves QPs with constraints of the form `A x >= b`
