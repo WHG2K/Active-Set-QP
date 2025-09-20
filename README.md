@@ -5,7 +5,7 @@ Implementation of the Active-Set method for inequality-constrained Quadratic Pro
 Problem form:  
 min 1/2 x^T G x + c^T x  subject to  A x >= b
 
-- **Notebook**: `Active_Set_QP.ipynb` (main file)  
+- **Notebook**: `Active_Set_QP_notebook.ipynb` (main file)  
 - **Document**: `Active_Set_QP_doc.html` (exported from the notebook)
 
 ## Features
