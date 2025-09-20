@@ -1,4 +1,4 @@
-# Active-Set QP (IEMS 450-2)
+# Active-Set QP
 
 Implementation of the Active-Set method for inequality-constrained Quadratic Programming (QP).
 
